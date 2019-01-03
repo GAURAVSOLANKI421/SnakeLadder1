@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnakeLadder</string>
+    <string name="logo">Snake and Ladder</string>
+    <string name="button">roll on</string>
+</resources>
